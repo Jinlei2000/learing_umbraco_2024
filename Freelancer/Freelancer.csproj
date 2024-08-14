@@ -6,7 +6,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Our.Umbraco.Slimsy" Version="5.1.2" />
+    <PackageReference Include="Our.Umbraco.TagHelpers" Version="1.2.0" />
     <PackageReference Include="Umbraco.Cms" Version="13.4.1" />
+    <PackageReference Include="Umbraco.Community.BlockPreview" Version="1.9.1" />
   </ItemGroup>
 
   <ItemGroup>
